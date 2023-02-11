@@ -9,13 +9,6 @@ html, body {
     padding: 10px 10px;
 }
 
-h1 {
-    font-size: 36px;
-    color: #232323;
-    margin: 0;
-    text-align: center;
-}
-
 nav {
     height: 36px;
     display: flex;
