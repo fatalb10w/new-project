@@ -6,13 +6,7 @@ html, body {
     margin: 0;
     padding: 0;
     height: 100%;
-}
-
-h1 {
-    font-size: 36px;
-    color: #232323;
-    margin: 0;
-    text-align: center;
+    padding: 10px 10px;
 }
 
 nav {
@@ -24,5 +18,4 @@ nav {
 
 a {
     text-decoration: none;
-    color: black;
 }
